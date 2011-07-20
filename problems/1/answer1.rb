@@ -1,4 +1,4 @@
-def sum_mlist m, upper
+def sum_multiples m, upper
   quo = upper / m
   rem = upper % m
   quo -= 1 if rem == 0
@@ -6,5 +6,5 @@ def sum_mlist m, upper
   return sum * m
 end
 
-answer1 = sum_mlist(3, 1000) + sum_mlist(5, 1000) - sum_mlist(15, 1000)
+answer1 = sum_multiples(3, 1000) + sum_multiples(5, 1000) - sum_multiples(15, 1000)
 puts answer1
