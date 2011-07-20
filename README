@@ -1,0 +1,14 @@
+Project-Euler: my answers.
+
+* Author
+  - Tadanori TERUYA <tadanori.teruya@gmail.com>
+
+* Contents
+  - README
+  This file.
+  - LICENSE
+  The license of these source codes.
+  - AUTHORS
+  A list of authors.
+  - problems/
+  Problems and my answers. Problem text files are copied from Project Euler.
